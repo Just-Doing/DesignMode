@@ -6,7 +6,7 @@ namespace DesignMode
     {
         static void Main(string[] args)
         {
-            new DesignMode_Prototype.Client().Test();
+            new DesignMode_Singleton.Client().Test();
             Console.ReadKey();
         }
     }
