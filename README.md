@@ -4,6 +4,7 @@
 ## 2. 工厂方法 FactoryMethord.cs
 ![AbstractFactory](https://github.com/Just-Doing/DesignMode/blob/master/DesignMode/img/FactoryMethord.png)
 ## 3. 建造者
+![AbstractFactory](https://github.com/Just-Doing/DesignMode/blob/master/DesignMode/img/builder.png)
 ## 4.原型实例
 ## 5.单例模式
 ## 6.适配器模式
