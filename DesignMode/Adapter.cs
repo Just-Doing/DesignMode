@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DesignMode
 {
-    public class Target
+    public class Adapter
     {
         public void Excute()
         {
@@ -13,15 +13,16 @@ namespace DesignMode
     }
 
     // 适配器
-    public class Adapter {
-        Target target;
-        public Adapter(Target t) {
-            this.target = t;
+    public class Target
+    {
+        Adapter adapter;
+        public Target(Adapter apapter) {
+            this.adapter = apapter;
         }
 
         public void NewFun() {
             Console.WriteLine("干点事情。。---在目标方法前");
-            this.target.Excute();
+            this.adapter.Excute();
             Console.WriteLine("干点事情。。---在目标方法后");
         }
 
