@@ -10,6 +10,7 @@
 ## 5.单例模式 Singleton.cs
 ![Portotype](https://github.com/Just-Doing/DesignMode/blob/master/DesignMode/img/Singleton.png)
 ## 6.适配器模式
+![Portotype](https://github.com/Just-Doing/DesignMode/blob/master/DesignMode/img/adapter.png)
 ## 7.桥接模式
 ## 8.对象组合
 ## 9.装饰者模式
