@@ -55,7 +55,6 @@ namespace DesignMode
         {
             Console.WriteLine("干点事情。。---在目标方法前");
         }
-
         public override void EndDoSomething()
         {
             Console.WriteLine("干点事情。。---在目标方法后");
