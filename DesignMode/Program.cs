@@ -6,7 +6,7 @@ namespace DesignMode
     {
         static void Main(string[] args)
         {
-            new DesignMode_Bridge.Client().Test();
+            new DesignMode_Composite.Client().Test();
             Console.ReadKey();
         }
     }
