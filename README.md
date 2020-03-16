@@ -17,3 +17,15 @@
 ![Composite](https://github.com/Just-Doing/DesignMode/blob/master/DesignMode/img/Composite.png)
 ## 9.装饰者模式
 ## 10.外观
+## 11.享元模式
+## 12.代理模式
+## 13.解释器模式
+## 14.模板方法
+## 15.职责连模式
+## 16.命令模式
+## 17.迭代器模式
+## 18.中介者模式
+## 19.观察者模式
+## 20.状态模式
+## 21.策略模式
+## 22.访问者模式
