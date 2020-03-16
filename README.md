@@ -9,11 +9,11 @@
 ![Portotype](https://github.com/Just-Doing/DesignMode/blob/master/DesignMode/img/Prototype.png)
 ## 5.单例模式 Singleton.cs
 ![Singleton](https://github.com/Just-Doing/DesignMode/blob/master/DesignMode/img/Singleton.png)
-## 6.适配器模式
+## 6.适配器模式 Adapter.cs
 ![adapter](https://github.com/Just-Doing/DesignMode/blob/master/DesignMode/img/adapter.png)
-## 7.桥接模式
+## 7.桥接模式 Bridge.cs
 ![Bridge](https://github.com/Just-Doing/DesignMode/blob/master/DesignMode/img/Bridge.png)
-## 8.对象组合
+## 8.对象组合 Composite.cs
 ![Composite](https://github.com/Just-Doing/DesignMode/blob/master/DesignMode/img/Composite.png)
 ## 9.装饰者模式
 ## 10.外观
