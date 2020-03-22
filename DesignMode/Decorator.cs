@@ -4,7 +4,6 @@ using System.Text;
 
 namespace DesignMode_Decorator
 {
-
     public abstract class Component {
         public abstract void Draw();
     }
