@@ -1,4 +1,6 @@
 # 设计模式课件
+## 0. 设计模式基本原则
+![yuanze](https://github.com/Just-Doing/DesignMode/blob/master/DesignMode/img/yuanze.png)
 ## 1. 抽象工厂 AbstractFactory.cs
 ![AbstractFactory](https://github.com/Just-Doing/DesignMode/blob/master/DesignMode/img/AbstractFactory.png)
 ## 2. 工厂方法 FactoryMethord.cs
@@ -16,6 +18,7 @@
 ## 8.对象组合 Composite.cs
 ![Composite](https://github.com/Just-Doing/DesignMode/blob/master/DesignMode/img/Composite.png)
 ## 9.装饰者模式
+![Decorator](https://github.com/Just-Doing/DesignMode/blob/master/DesignMode/img/Decorator.png)
 ## 10.外观
 ## 11.享元模式
 ## 12.代理模式
